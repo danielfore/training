@@ -21,8 +21,3 @@
 .active {
     display: block !important;
 }
-
-button {
-    padding: 12px;
-    margin: 24px;  
-}
